@@ -6,4 +6,4 @@
 Total Value Locked in DeFi
 $4.103b
 # Deribates Avantis
-#
+# RWA Afi protocol
