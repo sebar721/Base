@@ -1,2 +1,3 @@
 # Base L2 of Ethereum 
-# Base defi aerodroe
+# Base defi aerodrome
+# Base token TGE
