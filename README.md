@@ -1,1 +1,1 @@
-# Base L2 of the 
+# Base L2 of Ethereum 
