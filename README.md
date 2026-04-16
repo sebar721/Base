@@ -5,5 +5,5 @@
 # Base app
 Total Value Locked in DeFi
 $4.103b
-# Deribates Avantis
+# Deribates Avantis protocol
 # RWA Afi protocol
